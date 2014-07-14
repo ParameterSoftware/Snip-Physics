@@ -10,7 +10,7 @@ class sp_UBase {
 		double amount;
 	public:
 		sp_UBase(double amount);
-		double Convert(sp_UBase from);
+		sp_UBase Convert(sp_UBase from);
 };
 
 #endif
