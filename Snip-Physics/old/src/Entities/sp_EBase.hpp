@@ -5,10 +5,10 @@
 
 class sp_EBase {
 	protected:
-		
+
 	public:
-		sp_EBase() = 0
-	
+		sp_EBase() = 0;
+
 };
 
 #endif
